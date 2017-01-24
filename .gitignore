@@ -1,0 +1,7 @@
+/_build
+/deps
+erl_crash.dump
+*.ez
+sensor_queue_worker_image.tar.gz
+.idea
+*.iml
